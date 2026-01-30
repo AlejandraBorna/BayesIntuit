@@ -57,6 +57,7 @@ Representative code snippets for these extensions can be shared upon request.
 ## Citation
 
 If you use or reference this work, please cite: 
+
 Bornacelly, M. (2026). BayesIntuit: A Neural Framework for Intuition-Based Reasoning. In: Florez, H., Rabelo, L., Diaz, C. (eds) Industrial Engineering and Operations Management. IEOM-CS 2025. Communications in Computer and Information Science, vol 2557. Springer, Cham. https://doi.org/10.1007/978-3-031-98235-4_9
 ---
 ## Contact
