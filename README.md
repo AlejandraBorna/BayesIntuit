@@ -4,8 +4,8 @@ BayesIntuit is a reliability-aware neural framework that integrates dynamic memo
 
 This repository provides a **reference implementation** of the core BayesIntuit architecture as published in:
 
-**Bornacelly, M. (2025). _BayesIntuit: A Neural Framework for Intuition-Based Reasoning_.  
-Proceedings of the International Conference on Industrial Engineering and Operations Management (IEOM). Springer.**
+Bornacelly, M. (2025). _BayesIntuit: A Neural Framework for Intuition-Based Reasoning_.  
+Proceedings of the International Conference on Industrial Engineering and Operations Management (IEOM). Springer.
 ---
 
 ## Overview
